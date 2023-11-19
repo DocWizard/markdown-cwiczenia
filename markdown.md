@@ -1,10 +1,10 @@
 # Markdown w praktyce
 
-<!--- Komentarze jak w HTML  --->
+<!--- Komentarze jak w HTMLu --->
 
 To jest test - zobaczymy czy (jak) to działa.
 
-## Rozdział 1
+## Rozdział 1 - rzeczy w tekście
 
 Tu wpisujemy treść, a obok treść się wyświetla. 
 
@@ -17,8 +17,15 @@ Tu wpisujemy treść, a obok treść się wyświetla.
     adipiscing
     elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
-Dwie spacje na końcu wiersza  
+Dwie spacje na `końcu` wiersza =  
 nowy wiersz bez nowego akapitu.
+
+
+**BOLD**
+
+<b>Też bold, tylko po HTML-owemu</b>
+
+*Italiki są - o dziwo - w gwiazkach*
 
 ### Kolejny  poziom nagłówka
 
@@ -30,23 +37,21 @@ nowy wiersz bez nowego akapitu.
 
 ####### Sprawdziłem - maksymalnie sześć.
 
-**BOLD**
+## Rozdział 2 - różne inne bajery
 
-<b>Też bold, tylko po HTML-owemu</b>
+```Tu jest mój kod. Hello world!```
 
-*Italiki są - o dziwo - w gwiazkach*
+- kr
+    - op 
+        - ecz
+            - ki
 
-> Tu jest mój kod. Hello world!
 
-- 
-    - 
-        -
-            -
 
----
-
-`też kod, tylko inaczej`
+> też kod, tylko inaczej
 
 ---
 
-https://www.markdownguide.org/cheat-sheet/
+![Krajobraz](IMG_20190812_144204-1.jpg)
+
+[Ściągawka ze składni, a jednocześnie przykład odsyłaczy](https://www.markdownguide.org/cheat-sheet/)
