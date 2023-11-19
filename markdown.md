@@ -27,12 +27,11 @@ Tu wpisujemy treść, a obok treść się wyświetla.
 Dwie spacje na `końcu` wiersza =  
 nowy wiersz bez nowego akapitu.
 
-
 **BOLD**
 
 <b>Też bold, tylko po HTML-owemu</b>
 
-*Italiki są - o dziwo - w gwiazkach*
+*Italiki są - o dziwo - w gwiazkach*, <i> albo też a'la HTML </i>
 
 ### Kolejny  poziom nagłówka
 
@@ -46,8 +45,7 @@ nowy wiersz bez nowego akapitu.
 
 ```Tu jest mój kod. Hello world!```
 
-- kr
-- op 
+- krop 
 - ecz
 - ki
 
