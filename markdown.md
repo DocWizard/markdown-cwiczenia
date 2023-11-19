@@ -73,12 +73,12 @@ nowy wiersz bez nowego akapitu.
 
 # Rozdział 3 - **TABELKI**
 
-|Nagłówek    |Też w sumie nagłówek|
-|------------|--------------------|
-|Hejże hej   |Hejże ha            |
-|Jupi jej    |Jupi ja             |
-|Raz dwa trzy|Cztery pięć sześć   |
-|???         |!!!                 |
+| Nagłówek     | Też w sumie nagłówek |
+| ------------ | -------------------- |
+| Hejże hej    | Hejże ha             |
+| Jupi jej     | Jupi ja              |
+| Raz dwa trzy | Cztery pięć sześć    |
+| ???          | !!!                  |
 
 <!--- jakoś poszło --->
 
