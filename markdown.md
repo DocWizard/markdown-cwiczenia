@@ -45,7 +45,7 @@ nowy wiersz bez nowego akapitu.
 
 ---
 
-`a to będzie na kolorowo`
+`też kod, tylko inaczej`
 
 ---
 
