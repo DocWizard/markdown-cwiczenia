@@ -13,7 +13,7 @@
 
 # Rozdział 1 - rzeczy w tekście
 
-Tu wpisujemy treść, a obok treść się wyświetla. 
+Tak wpisujemy treść.
 
 "Lorem
  ipsum
