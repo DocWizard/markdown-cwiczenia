@@ -1,9 +1,7 @@
-# Markdown w praktyce - spis treści
+# Markdown w praktyce - spis treści <!-- omit in toc -->
 
 <!--- Komentarze jak w HTMLu --->
 
-Spis treści:
-- [Markdown w praktyce - spis treści](#markdown-w-praktyce---spis-treści)
 - [Rozdział 1 - rzeczy w tekście](#rozdział-1---rzeczy-w-tekście)
     - [Kolejny  poziom nagłówka](#kolejny--poziom-nagłówka)
       - [Jeszcze jeden poziom nagłówka](#jeszcze-jeden-poziom-nagłówka)
