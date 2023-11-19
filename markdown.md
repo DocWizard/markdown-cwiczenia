@@ -1,10 +1,19 @@
-# Markdown w praktyce
+# Markdown w praktyce - spis treści
 
 <!--- Komentarze jak w HTMLu --->
 
-To jest test - zobaczymy czy (jak) to działa.
+Spis treści:
+- [Markdown w praktyce - spis treści](#markdown-w-praktyce---spis-treści)
+- [Rozdział 1 - rzeczy w tekście](#rozdział-1---rzeczy-w-tekście)
+    - [Kolejny  poziom nagłówka](#kolejny--poziom-nagłówka)
+      - [Jeszcze jeden poziom nagłówka](#jeszcze-jeden-poziom-nagłówka)
+        - [Ile jest ich w sumie?](#ile-jest-ich-w-sumie)
+          - [~~Nikt tego nie wie~~](#nikt-tego-nie-wie)
+- [Rozdział 2 - różne inne bajery](#rozdział-2---różne-inne-bajery)
+- [Rozdział 3 - **TABELKI**](#rozdział-3---tabelki)
 
-## Rozdział 1 - rzeczy w tekście
+
+# Rozdział 1 - rzeczy w tekście
 
 Tu wpisujemy treść, a obok treść się wyświetla. 
 
@@ -35,18 +44,24 @@ nowy wiersz bez nowego akapitu.
 
 ###### ~~Nikt tego nie wie~~
 
-####### Sprawdziłem - maksymalnie sześć.
-
-## Rozdział 2 - różne inne bajery
+# Rozdział 2 - różne inne bajery
 
 ```Tu jest mój kod. Hello world!```
 
 - kr
-    - op 
-        - ecz
-            - ki
+- op 
+- ecz
+- ki
 
+- można
+    - też
+    - zrobić
+    - sobie 
+        - tak
 
+1. cy
+2. fer
+3. ki
 
 > też kod, tylko inaczej
 
@@ -55,3 +70,15 @@ nowy wiersz bez nowego akapitu.
 ![Krajobraz](IMG_20190812_144204-1.jpg)
 
 [Ściągawka ze składni, a jednocześnie przykład odsyłaczy](https://www.markdownguide.org/cheat-sheet/)
+
+# Rozdział 3 - **TABELKI**
+
+|Nagłówek    |Też w sumie nagłówek|
+|------------|--------------------|
+|Hejże hej   |Hejże ha            |
+|Jupi jej    |Jupi ja             |
+|Raz dwa trzy|Cztery pięć sześć   |
+|???         |!!!                 |
+
+<!--- jakoś poszło --->
+
