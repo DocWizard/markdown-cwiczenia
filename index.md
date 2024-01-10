@@ -2,4 +2,4 @@
 
 Linki:
 - [Markdown w praktyce - praca domowa](markdown.md)
-- [Jak radzić sobie z SME? (eng)](.\SME_TIPS\SME-tips.md)
+- [Jak radzić sobie z SME? (eng)](./SME_TIPS/SME-tips.md)
