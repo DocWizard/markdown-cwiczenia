@@ -9,7 +9,7 @@ The free flow and sharing of knowledge among SMEs, writers, and broader teams ar
 In an ideal world, this flow of knowledge is smooth, friendly and uninterrupted. But anyone who has tried to schedule an interview with an expert knows — it's rarely that simple. Experts are busy people, and their knowledge and skills are in high demand. 
 
 ## Why do SMEs go MIA?
-<img src=./images/00006-1571621898.png width="200" alt="Stylized image of an expert" style="float: right;">
+<img src=images/00006-1571621898.png width="200" alt="Stylized image of an expert" style="float: right;">
 
 Subject Matter Experts might become unresponsive due to various reasons - both professional and personal. To become an expert SME tamer, you must at least try to understand their perspective:
 
@@ -46,4 +46,4 @@ With luck, you should now have an interview scheduled. Afterward, review your no
 
 Building a robust working relationship with the SME leads to high-quality technical documentation. Remember, documentation is a means of knowledge sharing among team members, departments, and organizations—crucial for growth, innovation, and continuous improvement.
 
-<img src=./images/00006-1266185086.png width="512" alt="Stylized image of an interview in progress" style="float: right;">
+<img src=images/00006-1266185086.png width="512" alt="Stylized image of an interview in progress" style="float: right;">
